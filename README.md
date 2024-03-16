@@ -42,8 +42,8 @@ mvn -version
 
 ```jshelllanguage
 Apache Maven 3.8.8 (4c87b05d9aedce574290d1acc98575ed5eb6cd39)
-Maven home: C:\Users\flaky\Documents\opt\apache-maven-3.8.8-bin\apache-maven-3.8.8
-Java version: 21.0.2, vendor: Oracle Corporation, runtime: C:\Users\flaky\Documents\opt\jdk-21_windows-x64_bin\jdk-21.0.2
+Maven home: C:\Users\mimi\Documents\opt\apache-maven-3.8.8-bin\apache-maven-3.8.8
+Java version: 21.0.2, vendor: Oracle Corporation, runtime: C:\Users\mimi\Documents\opt\jdk-21_windows-x64_bin\jdk-21.0.2
 Default locale: fr_FR, platform encoding: UTF-8
 OS name: "windows 11", version: "10.0", arch: "amd64", family: "windows"
 ```
